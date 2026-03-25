@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_BoycamVersionString[];
+ extern const double Pods_BoycamVersionNumber;
+
+ const unsigned char Pods_BoycamVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_Boycam  PROJECT:Pods-1" "\n";
+ const double Pods_BoycamVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'Pods-Boycam' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyJSON' in project 'Pods'
+Target 'SwiftyJSON' in project 'Pods' (no dependencies)
+Target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire-Alamofire' in project 'Pods'
+Target 'Alamofire-Alamofire' in project 'Pods' (no dependencies)

@@ -1,0 +1,6 @@
+framework module Pods_Boycam {
+  umbrella header "Pods-Boycam-umbrella.h"
+
+  export *
+  module * { export * }
+}

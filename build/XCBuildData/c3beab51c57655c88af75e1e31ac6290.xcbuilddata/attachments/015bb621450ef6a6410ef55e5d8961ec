@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/admin/Documents/apple/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-primary.swiftconstvalues",
+    "dependencies" : "/Users/admin/Documents/apple/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-primary.d",
+    "diagnostics" : "/Users/admin/Documents/apple/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-primary.dia",
+    "emit-module-dependencies" : "/Users/admin/Documents/apple/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/admin/Documents/apple/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-primary-emit-module.dia",
+    "pch" : "/Users/admin/Documents/apple/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/admin/Documents/apple/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-primary.swiftdeps"
+  },
+  "/Users/admin/Documents/apple/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o",
+    "llvm-bc" : "/Users/admin/Documents/apple/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.bc",
+    "object" : "/Users/admin/Documents/apple/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o"
+  }
+}
